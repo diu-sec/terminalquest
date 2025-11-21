@@ -1,7 +1,5 @@
 name: Build and Release 
 on:
-    pull_request:
-
     workflow_dispatch:
     
 jobs:
