@@ -49,7 +49,7 @@
     "twilioquest-base": "^8.1.0",
     "twilioquest-dev-fundamentals": "^2.4.0",
     "twilioquest-javascript": "^1.1.7",
-    "twilioquest-open-source": "^2.0.1",
+    "twilioquest-open-source": "diu-sec/twilioquest-open-source-diusec",
     "twilioquest-python": "^1.0.7",
     "twilioquest-twilio-vr": "^1.1.4",
     "universal-analytics": "^0.4.20",
