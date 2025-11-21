@@ -56,7 +56,7 @@ module.exports = {
       name: '@electron-forge/publisher-github',
       config: {
         repository: {
-          owner: 'terminalquest',
+          owner: 'diu-sec',
           name: 'terminalquest'
         },
         prerelease: true,
