@@ -18,7 +18,7 @@ Developing TerminalQuest requires the following dependencies to be installed:
 After cloning this repository, install dependencies with:
 
 ```
-npm install
+npm install --legacy-peer-deps
 ```
 
 Fair warning - during this transitional period, this process may not happen without error. After dependencies are successfully installed, you can run the game in development mode with:
