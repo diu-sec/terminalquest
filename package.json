@@ -1,7 +1,7 @@
 {
   "name": "terminalquest",
   "//aboutVersion": "See public/package.json for actual game/app version.",
-  "version": "3.0.0-diu-rc2",
+  "version": "3.0.0-diu-rc3",
   "license": "MIT",
   "author": "TerminalQuest authors",
   "repository": "terminalquest/terminalquest",
